@@ -5,7 +5,7 @@ Created by Danny Tao.
 Prompt:
 
   For Assignment 4, teams must choose three bootstrap components per team member to implement on your site. Viewers of the site should
-  see three features, from Bootstrap, present on the deployed site. Investigate all the Bootstrap features on their site,
+  see three features, from Bootstrap, present on the deployed site. Investigate all the Bootstrap features on their site.
 
 Description:
 
