@@ -1,0 +1,33 @@
+.card-grid-container{
+    display: grid;
+	grid-template-columns: 20% 20% 20%;
+	padding: 10px;
+	grid-gap: 50px;
+    justify-content: center;
+    align-content: center;
+}
+
+.card-grid-container2{
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    grid-row: auto;
+	padding: 10px;
+	grid-gap: 50px;
+    justify-content: center;
+    align-content: center;
+}
+
+.card-grid-container3{
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    grid-row: auto;
+	padding: 10px;
+	grid-gap: 50px;
+    justify-content: center;
+    align-content: center;
+}
+
+.card-text, h5{
+    text-align: center;
+}
+
